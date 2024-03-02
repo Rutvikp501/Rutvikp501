@@ -78,7 +78,7 @@ Skilled in HTML, CSS, Javascript, ReactJS, React Router, NodeJS and good in data
 
 
 
-![dhanush's Stats](https://github-readme-stats.vercel.app/api?username=Rutvikp501&theme=react&show_icons=true&hide_border=true) | ![dhanush's Streak](https://github-readme-streak-stats-tan-alpha.vercel.app?user=Rutvikp501&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=d38234&fire=e1d038&stroke=00000000&currStreakNum=ff5700&currStreakLabel=A6A6A6&border=00000000) |
+![Rutvik's Stats](https://github-readme-stats.vercel.app/api?username=Rutvikp501&theme=react&show_icons=true&hide_border=true) | ![Rutvik's Streak](https://github-readme-streak-stats-tan-alpha.vercel.app?user=Rutvikp501&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=d38234&fire=e1d038&stroke=00000000&currStreakNum=ff5700&currStreakLabel=A6A6A6&border=00000000) |
 | :---: | :---: | 
 
 
