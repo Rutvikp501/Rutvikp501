@@ -17,7 +17,7 @@ Skilled in HTML, CSS, Javascript, ReactJS, React Router, NodeJS and good in data
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS**
 
 - 📫 How to reach me **patilrutvik501@gmail.com**
 
