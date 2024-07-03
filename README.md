@@ -29,7 +29,7 @@ Skilled in HTML, CSS, Javascript, ReactJS, React Router, NodeJS and good in data
 <br>
 <h2 align="center"> Connect with me:</h2>
 <p align="center">
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://drive.google.com/file/d/1M38k9dntHKFIU_bfokMxRJIt3rsDh4dg/view?usp=drive_link" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://www.linkedin.com/in/rutvik-patil/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:patilrutvik501@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
